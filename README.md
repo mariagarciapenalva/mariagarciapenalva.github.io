@@ -10,4 +10,4 @@ Plain HTML + CSS, hosted on GitHub Pages. No framework, no build step.
 - `cv.pdf` — current CV
 
 ## Contact
-[email] · [LinkedIn]
+[maria.mgpmail@gmail.com](mailto:maria.mgpmail@gmail.com) · [LinkedIn](https://www.linkedin.com/in/maría-garcía-penalva-064084281/)
